@@ -13,6 +13,9 @@ public class Team5 extends Team
         members.add(new TeamMember("Davin Glynn"));
         
         members.add(new TeamMember("Kyle Adams"));
+
+        members.add(new TeamMember("David Olsakowski"));
+
         // create a new member class for each team member
         // and add it to the team members list
     }
